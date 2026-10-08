@@ -1,0 +1,3 @@
+Code Review Process
+
+All code changes must be reviewed by at least one senior engineer before merging. Pull requests must include description of changes, testing steps, and ticket numbers. Reviewers respond within 24 hours. Code coverage must remain above 80%. Minor changes require one approval. Core system changes require two approvals including system owner. Hotfixes may bypass standard review with post-hoc review within 48 hours. All pull requests automatically scanned for vulnerabilities and style violations.

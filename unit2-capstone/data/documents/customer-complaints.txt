@@ -1,0 +1,3 @@
+Customer Complaint Handling Policy
+
+All complaints must be acknowledged within 4 business hours. Resolution provided within 3 business days for standard complaints and 24 hours for critical complaints. Categories include billing disputes, service outages, product defects, and general feedback. Billing disputes escalated to finance. Service outages escalated to operations immediately. Unresolved complaints escalated to senior customer success manager. Enterprise customers treated as high priority. Customers affected by outages exceeding 2 hours eligible for service credits.

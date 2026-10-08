@@ -1,0 +1,21 @@
+id,name,industry,churn_date,satisfaction_score
+1,Company Alpha,Finance,,4.8
+2,Company Beta,Healthcare,2024-03-15,3.2
+3,Company Gamma,Retail,,4.5
+4,Company Delta,Technology,,4.9
+5,Company Epsilon,Manufacturing,2024-06-20,2.8
+6,Company Zeta,Finance,,4.6
+7,Company Eta,Healthcare,,4.2
+8,Company Theta,Retail,2024-02-10,3.0
+9,Company Iota,Technology,,4.7
+10,Company Kappa,Manufacturing,,3.9
+11,Company Lambda,Finance,,4.4
+12,Company Mu,Healthcare,2024-08-05,2.5
+13,Company Nu,Retail,,4.1
+14,Company Xi,Technology,,4.8
+15,Company Omicron,Manufacturing,,3.7
+16,Company Pi,Finance,2024-04-30,3.3
+17,Company Rho,Healthcare,,4.3
+18,Company Sigma,Retail,,4.6
+19,Company Tau,Technology,,4.9
+20,Company Upsilon,Manufacturing,,3.8
