@@ -1,6 +1,6 @@
 # Unit 2 Capstone: Multi-Agent RAG System with Claude
 
-Trust-but-Verify
+##Trust-but-Verify
 The system does not blindly trust Gemini's outputs. Every response passes through a validation layer in validator.py before being returned to the user. Below are four real examples from testing.
 
 Example 1 — Security Policy Query (Qualitative — Grounded Response)
